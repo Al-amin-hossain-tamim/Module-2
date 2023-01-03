@@ -1,0 +1,26 @@
+.header{
+    height: 200px;
+    text-align: center;
+    /* background-image: url('baby.jpg'); */
+    background-image: url('../image/hm_carousel_1stSlide.png');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h2{
+    color: magenta;
+}
+h3{
+    color: blue;
+    text-decoration: underline;
+    text-align: center;
+}
+p{
+    color: aqua;
+}
+.page-title{
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+    text-decoration: none;
+}

@@ -1,0 +1,16 @@
+
+li{
+    color:cornflowerblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.alamin{
+    color: red;
+}
+#trump{
+    color: blue;
+    background-color: chartreuse;
+    font-size: 2em;
+}
+*{
+    text-align: center ;
+}
